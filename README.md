@@ -1,3 +1,5 @@
+Step by step tutorial on how to build this is here: [http://www.nikola-breznjak.com/blog/javascript/vue-js/getting-started-vue-js-2-building-giphy-search-application/](http://www.nikola-breznjak.com/blog/javascript/vue-js/getting-started-vue-js-2-building-giphy-search-application/).
+
 # giphy-search
 
 > Giphy search app with Vue.js
